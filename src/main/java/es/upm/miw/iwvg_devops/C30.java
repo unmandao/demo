@@ -9,4 +9,8 @@ public class C30 {
     void m2() {
 
     }
+
+    void m3() {
+
+    }
 }
