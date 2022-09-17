@@ -5,4 +5,8 @@ public class C30 {
     void m1() {
 
     }
+
+    void m2() {
+
+    }
 }
